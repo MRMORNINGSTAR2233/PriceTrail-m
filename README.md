@@ -22,6 +22,7 @@ To install the PriceTrail application, follow these steps:
 ```bash
 git clone [repository_url]
 Navigate to the cloned repository directory:
+git clone https://github.com/MRMORNINGSTAR2233/PriceTrail-m.git
 bash
 Copy code
 cd pricetrail
